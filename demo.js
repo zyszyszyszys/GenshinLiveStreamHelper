@@ -10,10 +10,10 @@
 // @icon         https://ys.mihoyo.com/main/favicon.ico
 // @grant        unsafeWindow
 // @grant        GM_log
-// @homepageURL  https://github.com/ifeng0188/GenshinLiveBroadcastCDK
-// @supportURL   https://github.com/ifeng0188/GenshinLiveBroadcastCDK/issues
-// @downloadURL  https://raw.fastgit.org/ifeng0188/GenshinLiveBroadcastCDK/main/demo.js
-// @updateURL    https://raw.fastgit.org/ifeng0188/GenshinLiveBroadcastCDK/main/demo.js
+// @homepageURL  https://github.com/ifeng0188/GenshinLiveStreamHelper
+// @supportURL   https://github.com/ifeng0188/GenshinLiveStreamHelper/issues
+// @downloadURL  https://raw.fastgit.org/ifeng0188/GenshinLiveStreamHelper/main/demo.js
+// @updateURL    https://raw.fastgit.org/ifeng0188/GenshinLiveStreamHelper/main/demo.js
 // @license      GPL-3.0 license
 // ==/UserScript==
 
@@ -137,7 +137,7 @@
     purify()
     exchange()
     console.info('【原神直播活动抢码助手】感谢你的使用，如本项目对你有帮助可以帮忙点个Star')
-    console.info('https://github.com/ifeng0188/GenshinLiveBroadcastCDK')
+    console.info('https://github.com/ifeng0188/GenshinLiveStreamHelper')
   } else {
     console.info('【原神直播活动抢码助手】检测到当前非原神直播活动页面，助手已休眠')
   }
